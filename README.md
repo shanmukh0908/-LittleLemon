@@ -1,2 +1,2 @@
-# -LittleLemon
+# LittleLemon
 coursera meta capstone
